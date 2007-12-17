@@ -9,11 +9,9 @@ Summary:        Convert binary octets into ASCII armoured messages
 Source0:        ftp://ftp.perl.org/pub/CPAN/modules/by-module/Convert/%{realname}-%{version}.tar.bz2
 Url:            http://www.cpan.org
 Prefix:         %{_prefix}
-BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:  perl-Compress-Zlib
 Requires:       perl
 BuildArch:      noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description 
 This module converts hashes of binary octets into ASCII
