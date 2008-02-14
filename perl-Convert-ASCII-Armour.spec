@@ -5,6 +5,7 @@ License:        Artistic
 
 %define realname        Convert-ASCII-Armour
 Group:          Development/Perl
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Summary:        Convert binary octets into ASCII armoured messages
 Source0:        ftp://ftp.perl.org/pub/CPAN/modules/by-module/Convert/%{realname}-%{version}.tar.bz2
 Url:            http://www.cpan.org
