@@ -1,6 +1,6 @@
 Name:           perl-Convert-ASCII-Armour
 Version:        1.4
-Release:        %mkrel 10
+Release:        %mkrel 11
 License:        Artistic
 
 %define realname        Convert-ASCII-Armour
