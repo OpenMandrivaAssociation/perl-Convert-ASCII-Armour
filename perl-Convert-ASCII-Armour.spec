@@ -3,7 +3,7 @@
 
 Name:		perl-%{realname}
 Version:	1.4
-Release:	13
+Release:	14
 Summary:	Convert binary octets into ASCII armoured messages
 License:	Artistic
 Group:		Development/Perl
