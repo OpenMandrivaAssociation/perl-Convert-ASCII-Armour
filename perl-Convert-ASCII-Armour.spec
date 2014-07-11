@@ -3,7 +3,7 @@
 Summary:	Convert binary octets into ASCII armoured messages
 Name:		perl-%{realname}
 Version:	1.4
-Release:	18
+Release:	19
 License:	Artistic
 Group:		Development/Perl
 Url:		http://www.cpan.org
