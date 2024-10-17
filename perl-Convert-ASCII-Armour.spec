@@ -6,7 +6,7 @@ Version:	1.4
 Release:	25
 License:	Artistic
 Group:		Development/Perl
-Url:		http://www.cpan.org
+Url:		https://www.cpan.org
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/Convert/%{realname}-%{version}.tar.bz2
 BuildRequires:	perl-devel
 BuildRequires:	perl(Compress::Zlib)  
