@@ -8,6 +8,7 @@ License:	Artistic
 Group:		Development/Perl
 Url:		https://www.cpan.org
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/Convert/%{realname}-%{version}.tar.bz2
+BuildRequires:	make
 BuildRequires:	perl-devel
 BuildRequires:	perl(Compress::Zlib)  
 BuildArch:	noarch
